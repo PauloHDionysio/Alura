@@ -7,5 +7,5 @@ if(opcao == 1):
     print("Voce escolheu ADIVINHACAO")
     adivinhacao.jogar()
 elif(opcao == 2):
-    print("Voce escolheu TESTE")
-    teste.jogar()
+    print("Voce escolheu FORCA")
+    forca.jogar()
